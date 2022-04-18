@@ -1,0 +1,5 @@
+car: 650 
+Rent: 900 
+phone: 300 
+book: 20 
+chair: 70 
